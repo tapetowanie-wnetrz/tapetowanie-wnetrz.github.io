@@ -75,9 +75,9 @@
               "color": "#000000"
             },
             ".navbar-brand": {
-              "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "25px"
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "20px"
             }
           }
         },
@@ -139,7 +139,7 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
@@ -278,7 +278,7 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
@@ -321,7 +321,15 @@
             "Motywy"
           ],
           "_name": "header2",
-          "_anchor": "header2-b"
+          "_anchor": "header2-b",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            },
+            "H1": {
+              "text-align": "right"
+            }
+          }
         },
         {
           "_params": {
@@ -329,7 +337,7 @@
             "showText": false,
             "showButtons": true,
             "showArrow": true,
-            "contentAlign": "center",
+            "contentAlign": "left",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/jungle-art-tapeta-na-sciane-800x800.jpg",
             "parallax": true,
@@ -343,7 +351,7 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "ZRÓB TO SAM ZAMAWIAJ PRZEZ<br>SYSTEM ZAMÓWIEŃ<br><br>",
+          "title": "<b>ZRÓB TO SAM ZAMAWIAJ PRZEZ<br>SYSTEM ZAMÓWIEŃ<br></b><br>",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://www.tapetomat.pl\" data-toolbar=\"-mbrBtnMove\">on-line</a> ",
           "alias": "purity/components",
@@ -351,7 +359,12 @@
             "Motywy"
           ],
           "_name": "header1",
-          "_anchor": "header1-d"
+          "_anchor": "header1-d",
+          "_styles": {
+            "H1": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {
