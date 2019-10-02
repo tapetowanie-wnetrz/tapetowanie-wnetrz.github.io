@@ -1,9 +1,36 @@
 @import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
 
 #menu-0 .navbar-toggler {
-  color: #000;
+  color: #000000;
 }
 #menu-0 .navbar-brand {
   font-family: 'Oxygen', sans-serif;
   font-size: 25px;
+}
+#header1-1 H1 {
+  color: #ffffff;
+  text-align: center;
+  font-size: 80px;
+}
+#header1-1 B {
+  font-size: 22px;
+}
+#header1-1 P {
+  text-align: center;
+  color: #ffffff;
+}
+#header1-1 I {
+  font-size: 21px;
+}
+#msg-box5-9 .lead P {
+  text-align: left;
+}
+#msg-box5-9 .mbr-section-title {
+  text-align: left;
+}
+#msg-box4-a .lead P {
+  text-align: right;
+}
+#msg-box4-a .mbr-section-title {
+  text-align: right;
 }
