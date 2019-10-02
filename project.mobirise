@@ -10,7 +10,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.0",
     "siteFonts": [],
-    "uniqCompNum": 6,
+    "uniqCompNum": 12,
     "versionPublish": "4.10.0"
   },
   "pages": {
@@ -27,15 +27,15 @@
         {
           "_params": {
             "logo": false,
-            "showBrand": true,
+            "showBrand": false,
             "showButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "color": "#fff",
             "hamburgerColor": "#000"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">O NAS</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">DOŚWIACZENIE</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">USŁUGI</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">PROJEKTY</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">ZRÓB TO SAM</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">KONTAKT</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-1\">O NAS</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">DOŚWIACZENIE</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">USŁUGI</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">PROJEKTY</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">ZRÓB TO SAM</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">KONTAKT</a></li>",
           "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
           "logo": {
             "image": {
@@ -97,7 +97,7 @@
             "overlayOpacity": 0.5
           },
           "title": "TAPETOWANIE<br>WNĘTRZ",
-          "text": "<b><i>Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet i okładzin ściennych. \n<br>Cechujemy się punktualnością, czystością miejsca pracy, dbałością o szczegóły, dokładnością oraz najwyższym poziomem świadczonych usług, który wypracowaliśmy przez lata pracując</i></b><br><b><i>w Polsce jak i za granicą.\n<br>Jesteśmy z Lublina gdzie głównie działamy lecz nasz zasięg obejmuje cała Polskę.&nbsp;</i></b><br>",
+          "text": "<b><i>Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet i okładzin ściennych. \n<br>Cechujemy się punktualnością, czystością miejsca pracy, dbałością o szczegóły, dokładnością</i></b><br><b><i>oraz najwyższym poziomem świadczonych usług, który wypracowaliśmy przez lata pracując</i></b><br><b><i>w Polsce jak i za granicą.\n</i></b><br><b><i><br>Jesteśmy z Lublina gdzie głównie działamy lecz nasz zasięg obejmuje cała Polskę.&nbsp;</i></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
           "alias": "purity/components",
           "_tags": [
@@ -105,6 +105,117 @@
           ],
           "_name": "header1",
           "_anchor": "header1-1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ico2-narzedzia-przydatne-przy-tapetowaniu-i-zrywaniu-tapet-776x406.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "<b>DOŚWIACZENIE</b>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><i><b>Od 8 lat tapetowania na co dzień</b></i></p><p><i><b>Fachowe Doradctwo\n</b></i></p><p><i><b>Pomiar, wycena, ocena podłoża i montaż\n</b></i></p><p><i><b>Setki Realizacji\n</b></i></p><p><i><b>W prywatnych domach i mieszkaniach, przedszkolach, szpitalach, hotelach, biurach, uczelniach itd.\n</b></i></p><p><i><b><br></b></i></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-9"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/tapety-czarno-biale-3159267-780x443.jpg",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "USŁUGI",
+          "text": "<p><b>Cennik usług:\n</b></p><p><b>•\tFototapety 35zł/m2\n</b></p><p><b>•\tTapety winylowe, flizelinowe i papierowe 25zł/m2\n</b></p><p><b>•\tTapety tekstylne i flokowe 30zł/m2\n</b></p><p><b>•\tOkładziny ścienne od 25zł/m2 do 40zł/m2\n</b></p><p><b>Dodatkowe oferujemy usługę malowania od 12zł/m2 do 15zł/m2.\n</b></p><p><b><br></b></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Motywy"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-a"
         },
         {
           "_inherit": "header1",
@@ -141,15 +252,46 @@
           "_anchor": "header4-2"
         },
         {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Nasze usługi świadczyliśmy m.in. dla:&nbsp;",
+          "text": "•\tSantander\n<br>•\tTBV DEVELOPMENT\n<br>•\tCHIŃCZYK\n<br>•\tPolitechnika Lubleska\n<br>•\tHotel Lwów\n<br>•\tHotel Korona\n<br>•\tGEBERIT Ozorków\n<br>•\tCentrum Biznesu w Łodzi\n<br>•\tOdlewnia żeliwa\n<br>•\tHotel Fokus\n<br>•\tHotel IBIS\n<br>•\tCosmopolitan\n<br>•\tSii\n<br>I wiele innych.&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-b"
+        },
+        {
           "_params": {
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "parallax": true,
@@ -170,7 +312,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "src": "https://www.youtube.com/watch?v=WQ8Q6qGbOpo",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -181,9 +323,9 @@
               "size": 0
             }
           },
-          "title": "Video Embed",
+          "title": "Realizacja&nbsp;",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "text": "<p>Wyklejanie w domu prywatnym&nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
           "alias": "purity/components",
           "_tags": [
