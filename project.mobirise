@@ -109,11 +109,11 @@
         {
           "_inherit": "header1",
           "_params": {
-            "showTitle": true,
+            "showTitle": false,
             "showText": false,
-            "showButtons": true,
+            "showButtons": false,
             "showArrow": false,
-            "contentAlign": "left",
+            "contentAlign": "center",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/photo-2.jpg",
             "parallax": true,
@@ -126,7 +126,7 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
