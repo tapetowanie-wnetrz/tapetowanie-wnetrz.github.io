@@ -35,12 +35,12 @@
         {
           "_params": {
             "logo": false,
-            "showBrand": false,
+            "showBrand": true,
             "showButtons": false,
-            "sticky": false,
+            "sticky": true,
             "collapsed": true,
             "transparent": false,
-            "color": "#fff8e0",
+            "color": "#ffffff",
             "hamburgerColor": "#000000"
           },
           "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-1\">O NAS</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box5-9\">DOŚWIACZENIE</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-a\">USŁUGI</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header4-2\">PROJEKTY</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">ZRÓB TO SAM</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#contacts3-c\">KONTAKT</a></li>",
@@ -63,7 +63,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-success\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tapetowanie-wnetrz</a>",
+          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tapetowanie-wnetrz ROB-ART</a>",
           "alias": "purity/components",
           "_tags": [
             "Motywy"
@@ -89,7 +89,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jungle-art-tapeta-na-sciane-800x800.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/91352-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -301,7 +301,7 @@
             "showArrow": false,
             "contentAlign": "center",
             "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -331,7 +331,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/photo-1.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/jungle-art-tapeta-na-sciane-800x800.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff8e0",
@@ -343,9 +343,9 @@
             "overlayColor": "#ffffff",
             "overlayOpacity": 0.5
           },
-          "title": "ZRÓB TO SAM",
+          "title": "ZRÓB TO SAM ZAMAWIAJ PRZEZ<br>SYSTEM ZAMÓWIEŃ<br><br>",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://www.tapetomat.pl\" data-toolbar=\"-mbrBtnMove\">on-line</a> ",
           "alias": "purity/components",
           "_tags": [
             "Motywy"
