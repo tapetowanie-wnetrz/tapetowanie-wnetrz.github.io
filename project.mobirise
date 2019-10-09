@@ -1,170 +1,336 @@
 {
   "settings": {
-    "name": "tapetowanie-wnetrz",
+    "name": "Site-10-02_2221",
     "currentPage": "index.html",
     "theme": {
-      "name": "purity",
-      "title": "PurityM",
-      "styling": {},
-      "additionalSetColors": [
-        "#ff84f1"
-      ]
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.0",
     "siteFonts": [],
-    "uniqCompNum": 14,
+    "uniqCompNum": 12,
     "versionPublish": "4.10.0",
-    "screenshot": "screenshot.png",
-    "favicon": "",
-    "noImageResize": "",
-    "siteUrl": "undefined",
-    "google-analytics": ""
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "ROB ART tapetowanie-wnetrz ",
-        "meta_descr": "Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet i okładzin ściennych. Cechujemy się punktualnością, czystością miejsca pracy, dbałością o szczegóły, dokładnością oraz najwyższym poziomem świadczonych usług, który wypracowaliśmy przez lata pracując w Polsce jak i za granicą. Jesteśmy z Lublina gdzie głównie działamy lecz nasz zasięg obejmuje cała Polskę.",
+        "title": "Home",
+        "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
       "components": [
         {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
-            "showButtons": false,
+            "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
-            "color": "#ffffff",
-            "hamburgerColor": "#000000"
+            "transparent": true,
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-1\">O NAS</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box5-9\">DOŚWIACZENIE</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#msg-box4-a\">USŁUGI</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header4-2\">PROJEKTY</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#header1-d\">ZRÓB TO SAM</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html#contacts3-c\">KONTAKT</a></li>",
-          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-4\">DOŚWIACZENIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box6-6\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box6-6\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-8\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box6-6\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/icon-wallpaper-128x128.png",
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo5-473x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
-              "title": "",
-              "active": true
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "laptop",
-              "family": "mobirise-icons-bold",
               "link": "https://mobirise.com",
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-brand text-black\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Tapetowanie-wnetrz ROB-ART</a>",
-          "alias": "purity/components",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"index.html#header1-1\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">TAPETOWANIE WNĘTRZ</a>",
           "_tags": [
             "Motywy"
           ],
           "_name": "menu",
-          "_anchor": "menu-0",
-          "_styles": {
-            ".navbar-toggler": {
-              "color": "#000000"
-            },
-            ".navbar-brand": {
-              "font-family": "'Roboto Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "20px"
-            }
-          }
+          "_anchor": "menu-0"
         },
         {
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": false,
+            "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/91352-2000x1333.jpg",
             "parallax": true,
             "bgColorRadio": false,
-            "bgColor": "#fff8e0",
+            "bgColor": "#a07e49",
             "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/kf7vwDVXXnU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=kf7vwDVXXnU",
-              "width": 1280,
-              "height": 720
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#ffffff",
+            "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
           "title": "TAPETOWANIE WNĘTRZ",
-          "text": "<b><i>Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet i okładzin ściennych. \n<br>Cechujemy się punktualnością, czystością miejsca pracy, dbałością o szczegóły, dokładnością</i></b><br><b><i>oraz najwyższym poziomem świadczonych usług, który wypracowaliśmy przez lata pracując</i></b><br><b><i>w Polsce jak i za granicą.\n</i></b><br><b><i><br>Jesteśmy z Lublina gdzie głównie działamy lecz nasz zasięg obejmuje cała Polskę.&nbsp;</i></b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">Download Now</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">Learn More</a>",
-          "alias": "purity/components",
+          "text": "Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet i okładzin ściennych.\n<br>Cechujemy się punktualnością, czystością miejsca pracy,<br>dbałością o szczegóły, dokładnością\noraz najwyższym poziomem świadczonych usług, który wypracowaliśmy przez lata pracując w Polsce jak i za granicą.<br>Jesteśmy z Lublina gdzie głównie działamy lecz nasz zasięg obejmuje cała Polskę.&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Motywy"
           ],
           "_name": "header1",
           "_anchor": "header1-1",
           "_styles": {
-            "H1": {
-              "color": "#ffffff",
-              "text-align": "center",
-              "font-size": "80px"
-            },
-            "B": {
-              "font-size": "22px"
-            },
-            "P": {
-              "text-align": "center",
-              "color": "#ffffff"
-            },
-            "I": {
-              "font-size": "21px"
+            ".mbr-section-title": {
+              "text-align": "center"
             }
           }
         },
         {
+          "_inherit": "features4",
           "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
             "showButtons": false,
-            "inverse": false,
-            "imageSize": 50,
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 4,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#efefef",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": false,
-            "overlayColor": "#fff",
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "timer",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "like",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "watch",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "mobirise-icons-bold",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features7",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "_tags": [
+            "Motywy"
+          ],
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "title1": "DOŚWIADCZENIE",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Od 8 lat tapetowania na co dzień.",
+          "title2": "Fachowe Doradztwo",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Pomiar, wycena, ocena podłoża i montaż.",
+          "title3": "Setki Realizacji",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "W prywatnych domach i mieszkaniach, przedszkolach, szpitalach, hotelach, biurach, uczelniach itd.",
+          "title4": "On-line",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Fachowe narzędzia<br>do zamówień zleceń<br>100 000 000 zdjęć<br>i grafik wektorowych",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_name": "features7",
+          "_anchor": "features7-4"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "61",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/jungle-art-tapeta-na-sciane-800x800.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
             "overlayOpacity": 0.5
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ico2-narzedzia-przydatne-przy-tapetowaniu-i-zrywaniu-tapet-776x406.jpg",
+              "src": "@PROJECT_PATH@/assets/images/3a-akcesoria-do-samodzielnego-tapetowania-700x400.png",
               "link": "",
               "alt": "",
-              "title": "",
-              "active": true
+              "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -172,250 +338,218 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
               "link": "",
-              "size": 0
+              "size": 250
             }
           },
-          "title": "<b>DOŚWIACZENIE</b>",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><i><b>Od 8 lat tapetowania na co dzień</b></i></p><p><i><b>Fachowe Doradctwo\n</b></i></p><p><i><b>Pomiar, wycena, ocena podłoża i montaż\n</b></i></p><p><i><b>Setki Realizacji\n</b></i></p><p><i><b>W prywatnych domach i mieszkaniach, przedszkolach, szpitalach, hotelach, biurach, uczelniach itd.\n</b></i></p><p><i><b><br></b></i></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
-          "alias": "purity/components",
+          "title": "Cennik usług:",
+          "text": "<b>•\tFototapety 35zł/m2\n<br>•\tTapety winylowe, flizelinowe i papierowe 25zł/m2\n<br>•\tTapety tekstylne i flokowe 30zł/m2\n<br>•\tOkładziny ścienne od 25zł/m2 do 40zł/m2\n<br><br>Dodatkowe oferujemy usługę malowania</b><br><b>od 12zł/m2 do 15zł/m2.&nbsp;</b><br>",
           "_tags": [
             "Motywy"
           ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-9",
-          "_styles": {
-            ".lead P": {
-              "text-align": "left"
-            },
-            ".mbr-section-title": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-6"
         },
         {
-          "_inherit": "msg-box5",
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "fff",
+            "showText": true,
+            "filter": true,
+            "images": [
+              {
+                "tags": "PROJEKT 1",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/table.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "PROJEKT 1&nbsp;"
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "_tags": [
+            "Motywy"
+          ],
+          "articleLayout": false,
+          "allItem": "WSZYSTKIE",
+          "_name": "gallery4",
+          "_anchor": "gallery4-9"
+        },
+        {
           "_params": {
             "showTitle": true,
-            "showMeta": false,
             "showText": true,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "inverse": false,
+            "showArrow": true,
+            "imageSize": "70",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/tapeta-z-nadrukiem2-2-1024x683.jpg",
             "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.3
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/tapety-czarno-biale-3159267-780x443.jpg",
+              "src": "@PROJECT_PATH@/assets/images/tapeta-w-kwiaty-1-820x532.jpg",
               "link": "",
               "alt": "",
               "title": ""
             },
             "video": {
-              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "class": "mbr-iconfont mbr-iconfont-header2",
               "link": "",
-              "size": 0
+              "size": 250
             }
           },
-          "title": "USŁUGI",
-          "text": "<p><b>Cennik usług:\n</b></p><p><b>•\tFototapety 35zł/m2\n</b></p><p><b>•\tTapety winylowe, flizelinowe i papierowe 25zł/m2\n</b></p><p><b>•\tTapety tekstylne i flokowe 30zł/m2\n</b></p><p><b>•\tOkładziny ścienne od 25zł/m2 do 40zł/m2\n</b></p><p><b>Dodatkowe oferujemy usługę malowania od 12zł/m2 do 15zł/m2.\n</b></p><p><b><br></b></p>",
-          "alias": "purity/components",
-          "_tags": [
-            "Motywy"
-          ],
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">More</a>",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-a",
-          "_styles": {
-            ".lead P": {
-              "text-align": "right"
-            },
-            ".mbr-section-title": {
-              "text-align": "right"
-            }
-          }
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": false,
-            "showText": false,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-2.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff8e0",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/kf7vwDVXXnU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/watch?v=kf7vwDVXXnU",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
-          },
-          "title": "Website Builder",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">For MAC</a>",
-          "alias": "purity/components",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "header4",
-          "_anchor": "header4-2"
-        },
-        {
-          "_inherit": "header1",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/photo-1.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
-          },
-          "title": "Nasze usługi świadczyliśmy m.in. dla:&nbsp;",
-          "text": "•\tSantander\n<br>•\tTBV DEVELOPMENT\n<br>•\tCHIŃCZYK\n<br>•\tPolitechnika Lubleska\n<br>•\tHotel Lwów\n<br>•\tHotel Korona\n<br>•\tGEBERIT Ozorków\n<br>•\tCentrum Biznesu w Łodzi\n<br>•\tOdlewnia żeliwa\n<br>•\tHotel Fokus\n<br>•\tHotel IBIS\n<br>•\tCosmopolitan\n<br>•\tSii\n<br>I wiele innych.&nbsp;<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">Learn More</a>",
-          "alias": "purity/components",
+          "title": "Nasze usługi świadczyliśmy m.in. dla:",
+          "text": "<b>•\tSantander\n<br>•\tTBV DEVELOPMENT\n<br>•\tCHIŃCZYK\n<br>•\tPolitechnika Lubleska\n<br>•\tHotel Lwów\n<br>•\tHotel Korona\n<br>•\tGEBERIT Ozorków\n<br>•\tCentrum Biznesu w Łodzi\n<br>•\tOdlewnia żeliwa\n<br>•\tHotel Fokus\n<br>•\tHotel IBIS\n<br>•\tCosmopolitan\n<br>•\tSii\n<br>I wiele innych.&nbsp;</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Motywy"
           ],
           "_name": "header2",
-          "_anchor": "header2-b",
-          "_styles": {
-            "P": {
-              "text-align": "right"
-            },
-            "H1": {
-              "text-align": "right"
-            }
-          }
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/jungle-art-tapeta-na-sciane-800x800.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff8e0",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#ffffff",
-            "overlayOpacity": 0.5
-          },
-          "title": "<b>ZRÓB TO SAM ZAMAWIAJ PRZEZ<br>SYSTEM ZAMÓWIEŃ<br></b><br>",
-          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"http://www.tapetomat.pl\" data-toolbar=\"-mbrBtnMove\">on-line</a> ",
-          "alias": "purity/components",
-          "_tags": [
-            "Motywy"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-d",
-          "_styles": {
-            "H1": {
-              "color": "#000000"
-            }
-          }
+          "_anchor": "header2-a"
         },
         {
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tapeta-z-nadrukiem2-1-1024x683.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#37383e",
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": true,
             "overlayColor": "#3C3C3C",
             "overlayOpacity": 0.8
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\">Contact Us</a>",
-          "text1": "<strong>KONTAKT</strong><br>\nTel: 669-160-881<br>\nwnetrza.rob.art@gmail.com<br>",
-          "text2": "<strong>Links</strong><ul><li><a href=\"https://mobirise.com/\">Website builder</a></li><li><a href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a></li><li><a href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a></li></ul>",
-          "form": {
-            "title": "MESSAGE",
-            "action": "rafaladamczuk@wp.pl",
-            "alerts": {
-              "success": "Thanks for filling out form!"
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo5-128x35.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
-            "fields": {
-              "name": {
-                "visible": false,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
             }
           },
-          "alias": "purity/components",
+          "text1": "Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet<br>i okładzin ściennych.<br><br>Wyklejanie duży powierzchni.<br>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Mail:</b></span></font><br><br>wnetrza.rob.art@gmail.com<br>",
+          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>",
           "_tags": [
             "Motywy"
           ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-c"
+          "_name": "contacts1",
+          "_anchor": "contacts1-8"
         }
       ]
     }
