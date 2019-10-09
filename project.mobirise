@@ -355,99 +355,117 @@
           "_params": {
             "showBullets": true,
             "fullWidth": false,
-            "spacing": 1,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "spacing": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "filterBgColor": false,
             "bgColor": "fff",
-            "showText": true,
-            "filter": true,
+            "showText": false,
+            "filter": false,
             "images": [
               {
                 "tags": "PROJEKT 1",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/bike.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bike-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190916-131817-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190916-131817-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/code-man.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/code-man-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190913-142031-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190913-142031-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Creative",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/coworkers.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/coworkers-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190907-112750-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190907-112750-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/desktop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/desktop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190907-101752-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190907-101752-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Awesome",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/room-laptop.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/room-laptop-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190907-93943-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190907-93943-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Beautiful",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/table.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/table-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190904-121752-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190904-121752-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "PROJEKT 1&nbsp;"
+                "caption": "PROJEKT 1&nbsp;",
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/windows-books.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/windows-books-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190814-115520-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190814-115520-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               },
               {
                 "tags": "Animated",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/working-area.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/working-area-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190726-173112-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190726-173112-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20190726-144643-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190726-144643-2000x1500-800x600.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -543,8 +561,8 @@
             }
           },
           "text1": "Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet<br>i okładzin ściennych.<br><br>Wyklejanie duży powierzchni.<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Mail:</b></span></font><br><br>wnetrza.rob.art@gmail.com<br>",
-          "text3": "<strong>Links</strong><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-primary\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Mail:</b></span></font><br>wnetrza.rob.art@gmail.com<br>",
+          "text3": "<strong>Links</strong><br><strong><br></strong><a class=\"text-primary\" href=\"https://mobirise.com/\">C</a>ennik<br><br>",
           "_tags": [
             "Motywy"
           ],
