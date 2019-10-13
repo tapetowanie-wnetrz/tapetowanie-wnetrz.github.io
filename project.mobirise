@@ -24,7 +24,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.0",
     "siteFonts": [],
-    "uniqCompNum": 12,
+    "uniqCompNum": 16,
     "versionPublish": "4.10.0",
     "screenshot": "screenshot.png"
   },
@@ -32,8 +32,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "ART ROB TAPETOWANIE WNĘTRZ",
+        "meta_descr": "Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet i okładzin ściennych. Cechujemy się punktualnością, czystością miejsca pracy, dbałością o szczegóły, dokładnością oraz najwyższym poziomem świadczonych usług,  przez lata pracując w Polsce jak i za granicą. Jesteśmy z Lublina gdzie głównie działamy lecz nasz zasięg obejmuje cała Polskę. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -90,7 +90,7 @@
           },
           "_params": {
             "logo": true,
-            "showBrand": true,
+            "showBrand": false,
             "hideButtons": true,
             "sticky": true,
             "collapsed": true,
@@ -105,7 +105,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/logo5-473x128.png",
+              "src": "@PROJECT_PATH@/assets/images/logo44-357x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -342,7 +342,7 @@
             }
           },
           "title": "Cennik usług:",
-          "text": "<b>•\tFototapety 35zł/m2\n<br>•\tTapety winylowe, flizelinowe i papierowe 25zł/m2\n<br>•\tTapety tekstylne i flokowe 30zł/m2\n<br>•\tOkładziny ścienne od 25zł/m2 do 40zł/m2\n<br><br>Dodatkowe oferujemy usługę malowania</b><br><b>od 12zł/m2 do 15zł/m2.&nbsp;</b><br>",
+          "text": "<b>•\tFototapety 35zł/m2\n<br>•\tTapety winylowe, flizelinowe i papierowe 25zł/m2\n<br>•\tTapety tekstylne i flokowe 30zł/m2\n<br>•\tOkładziny ścienne<br>&nbsp;od 25zł/m2 do 40zł/m2\n<br><br>Dodatkowe oferujemy usługę malowania</b><br><b>od 12zł/m2 do 15zł/m2.&nbsp;</b><br>",
           "_tags": [
             "Motywy"
           ],
@@ -355,7 +355,7 @@
           "_params": {
             "showBullets": true,
             "fullWidth": false,
-            "spacing": "0",
+            "spacing": "4",
             "paddingTop": "0",
             "paddingBottom": "0",
             "filterBgColor": false,
@@ -380,8 +380,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/20190913-142031-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190913-142031-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190913-142031-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190913-142031-2000x2667-800x1067.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -392,8 +392,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/20190907-112750-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190907-112750-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190907-112750-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190907-112750-2000x2667-800x1067.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -428,8 +428,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/20190904-121752-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190904-121752-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190904-121752-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190904-121752-2000x2667-800x1067.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "PROJEKT 1&nbsp;",
@@ -464,8 +464,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/20190726-144643-2000x1500.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/20190726-144643-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20190726-144643-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20190726-144643-2000x2667-800x1066.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -547,7 +547,7 @@
           },
           "logo": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo5-128x35.png",
+              "src": "@PROJECT_PATH@/assets/images/logo44-128x46.png",
               "width": 128,
               "active": true,
               "link": "",
@@ -568,6 +568,26 @@
           ],
           "_name": "contacts1",
           "_anchor": "contacts1-8"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-f"
         }
       ]
     }
