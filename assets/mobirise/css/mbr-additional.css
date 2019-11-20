@@ -529,6 +529,15 @@ section.form .container {
 #msg-box6-6 .lead p {
   color: #fff;
 }
+#header2-a .mbr-section-title SPAN {
+  font-size: 36px;
+}
+#header2-a .mbr-section-title {
+  font-size: 36px;
+}
+#header2-a .mbr-section-text {
+  text-align: left;
+}
 #header1-h .mbr-section-title {
   color: #0079ff;
 }

@@ -149,7 +149,7 @@
             "overlayOpacity": 0.5
           },
           "title": "TAPETOWANIE WNĘTRZ",
-          "text": "Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet i okładzin ściennych.\n<br>Cechujemy się punktualnością, czystością miejsca pracy,<br>dbałością o szczegóły, dokładnością\noraz najwyższym poziomem świadczonych usług, który wypracowaliśmy przez lata pracując w Polsce jak i za granicą.<br>Jesteśmy z Lublina gdzie głównie działamy lecz nasz zasięg obejmuje cała Polskę.&nbsp;",
+          "text": "Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet i okładzin ściennych.\n<br>Nasze cechy to punktualność, czystość miejsca pracy,<br>dbałość o szczegóły, dokładność oraz najwyższy poziom świadczonych usług,<br>który wypracowaliśmy przez lata pracy w Polsce i za granicą.<br>Realizujemy zlecenia na terenie całej Polski.&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Motywy"
@@ -274,13 +274,13 @@
           "caption1": "Od 8 lat tapetowania na co dzień.",
           "title2": "Fachowe Doradztwo",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Pomiar, wycena, ocena podłoża i montaż.",
+          "caption2": "Pomiar, wycena, ocena podłoża i montaż.<br>",
           "title3": "Setki Realizacji",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "W prywatnych domach i mieszkaniach, przedszkolach, szpitalach, hotelach, biurach, uczelniach itd.",
+          "caption3": "W prywatnych domach i mieszkaniach oraz placówkach użyteczności publicznej takich jak: przedszkola, szpitale, hotele, biura, uczelnie.",
           "title4": "On-line",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Fachowe narzędzia<br>do zamówień zleceń<br>100 000 000 zdjęć<br>i grafik wektorowych",
+          "caption4": "Fachowe narzędzia<br>do zamawiania zleceń,<br>setki zdjęć<br>i grafik wektorowych.",
           "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
@@ -527,14 +527,25 @@
               "size": 250
             }
           },
-          "title": "Nasze usługi świadczyliśmy m.in. dla:",
-          "text": "<b>•\tSantander\n<br>•\tTBV DEVELOPMENT\n<br>•\tCHIŃCZYK\n<br>•\tPolitechnika Lubleska\n<br>•\tHotel Lwów\n<br>•\tHotel Korona\n<br>•\tGEBERIT Ozorków\n<br>•\tCentrum Biznesu w Łodzi\n<br>•\tOdlewnia żeliwa\n<br>•\tHotel Fokus\n<br>•\tHotel IBIS\n<br>•\tCosmopolitan\n<br>•\tSii\n<br>I wiele innych.</b><br><br><b><i>ZAPRASZAMY REALIZUJEMY </i></b><br><b><i>PROJEKTY W CAŁEJ POLSCE</i></b><br>",
+          "title": "Nasze usługi<br>świadczyliśmy<br>m.in. dla:",
+          "text": "<b>•\tSantander\n<br>•\tTBV DEVELOPMENT\n<br>•\tCHIŃCZYK\n<br>•\tPolitechnika Lubleska\n<br>•\tHotel Lwów\n<br>•\tHotel Korona\n<br>•\tGEBERIT Ozorków\n<br>•\tCentrum Biznesu w Łodzi\n<br>•\tOdlewnia żeliwa\n<br>•\tHotel Fokus\n<br>•\tHotel IBIS\n<br>•\tCosmopolitan\n<br>•\tSii\n<br>I wiele innych.</b><br><br><b><i>ZAPRASZAMY DO WSPÓŁPRACY!</i><br><i><br></i><i>REALIZUJEMY&nbsp;</i><i>PROJEKTY NA TERENIE CAŁEJ POLSKI</i></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Motywy"
           ],
           "_name": "header2",
-          "_anchor": "header2-a"
+          "_anchor": "header2-a",
+          "_styles": {
+            ".mbr-section-title SPAN": {
+              "font-size": "36px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            ".mbr-section-text": {
+              "text-align": "left"
+            }
+          }
         },
         {
           "_params": {
@@ -560,8 +571,8 @@
             "overlayOpacity": "0.2"
           },
           "title": "ZAMÓW",
-          "text": "ZAPRASZAMY DO SKORZYSTANIA<br>Z MOŻLIWOŚCI ZAMÓWIENIA ON-LINE<br><br>Fachowe narzędzia\ndo zamówień zleceń\n<br>100 000 000 zdjęć i&nbsp;grafik wektorowych.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://robart.fototapetyxl.pl/\" data-toolbar=\"-mbrBtnMove\">ON-LINE</a> ",
+          "text": "<b>ZAPRASZAMY DO SKŁADANIA&nbsp;<br>ZAMÓWIEŃ ON-LINE&nbsp;<br><br>Fachowe narzędzia\ndo składania zamówień </b><br><b>oraz&nbsp;</b><b>tworzenia spersonalizowanych projektów.<br>&nbsp;Możliwość wyboru </b><b>spośród setek zdjęć i&nbsp;grafik wektorowych.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://robart.fototapetyxl.pl/\" data-toolbar=\"-mbrBtnMove\">SKLEP ON-LINE</a> ",
           "_tags": [
             "Motywy"
           ],
@@ -604,7 +615,7 @@
               "size": 0
             }
           },
-          "text1": "Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet<br>i okładzin ściennych.<br><br>Wyklejanie duży powierzchni.<br>",
+          "text1": "Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet<br>i okładzin ściennych.<br><br>Specjalizujemy się w wyklejaniu dużych powierzchni.<br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Mail:</b></span></font><br>wnetrza.rob.art@gmail.com<br><br>",
           "text3": "<strong>Links</strong><br><strong><br></strong><a class=\"text-primary\" href=\"https://mobirise.com/\">C</a>ennik<br><br>",
           "_tags": [
