@@ -566,7 +566,15 @@
             "Motywy"
           ],
           "_name": "header1",
-          "_anchor": "header1-h"
+          "_anchor": "header1-h",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#0079ff"
+            },
+            ".mbr-section-lead": {
+              "color": "#0079ff"
+            }
+          }
         },
         {
           "_params": {
