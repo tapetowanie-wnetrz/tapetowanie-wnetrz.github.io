@@ -555,9 +555,9 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5
+            "overlay": true,
+            "overlayColor": "#0079ff",
+            "overlayOpacity": "0.2"
           },
           "title": "ZAMÓW",
           "text": "ZAPRASZAMY DO SKORZYSTANIA<br>Z MOŻLIWOŚCI ZAMÓWIENIA ON-LINE<br><br>Fachowe narzędzia\ndo zamówień zleceń\n<br>100 000 000 zdjęć i&nbsp;grafik wektorowych.<br>",
