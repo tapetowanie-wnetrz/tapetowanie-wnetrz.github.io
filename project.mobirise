@@ -550,7 +550,10 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/kf7vwDVXXnU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=kf7vwDVXXnU",
+              "width": 1280,
+              "height": 720
             },
             "overlay": false,
             "overlayColor": "#000",
@@ -594,7 +597,7 @@
             }
           },
           "text1": "Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet<br>i okładzin ściennych.<br><br>Wyklejanie duży powierzchni.<br>",
-          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Mail:</b></span></font><br>wnetrza.rob.art@gmail.com<br>",
+          "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Mail:</b></span></font><br>wnetrza.rob.art@gmail.com<br><br>",
           "text3": "<strong>Links</strong><br><strong><br></strong><a class=\"text-primary\" href=\"https://mobirise.com/\">C</a>ennik<br><br>",
           "_tags": [
             "Motywy"
