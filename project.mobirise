@@ -24,7 +24,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.0",
     "siteFonts": [],
-    "uniqCompNum": 16,
+    "uniqCompNum": 18,
     "versionPublish": "4.10.0",
     "screenshot": "screenshot.png"
   },
@@ -101,7 +101,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-4\">DOŚWIACZENIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box6-6\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-9\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-8\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box6-6\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-4\">DOŚWIACZENIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box6-6\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-9\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-a\">PARTNERZY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-h\">ZAMÓW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-8\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box6-6\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -525,13 +525,42 @@
             }
           },
           "title": "Nasze usługi świadczyliśmy m.in. dla:",
-          "text": "<b>•\tSantander\n<br>•\tTBV DEVELOPMENT\n<br>•\tCHIŃCZYK\n<br>•\tPolitechnika Lubleska\n<br>•\tHotel Lwów\n<br>•\tHotel Korona\n<br>•\tGEBERIT Ozorków\n<br>•\tCentrum Biznesu w Łodzi\n<br>•\tOdlewnia żeliwa\n<br>•\tHotel Fokus\n<br>•\tHotel IBIS\n<br>•\tCosmopolitan\n<br>•\tSii\n<br>I wiele innych.&nbsp;</b><br>",
+          "text": "<b>•\tSantander\n<br>•\tTBV DEVELOPMENT\n<br>•\tCHIŃCZYK\n<br>•\tPolitechnika Lubleska\n<br>•\tHotel Lwów\n<br>•\tHotel Korona\n<br>•\tGEBERIT Ozorków\n<br>•\tCentrum Biznesu w Łodzi\n<br>•\tOdlewnia żeliwa\n<br>•\tHotel Fokus\n<br>•\tHotel IBIS\n<br>•\tCosmopolitan\n<br>•\tSii\n<br>I wiele innych.</b><br><br><b><i>ZAPRASZAMY REALIZUJEMY </i></b><br><b><i>PROJEKTY W CAŁEJ POLSCE</i></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Motywy"
           ],
           "_name": "header2",
           "_anchor": "header2-a"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          },
+          "title": "ZAMÓW",
+          "text": "ZAPRASZAMY DO SKORZYSTANIA<br>Z MOŻLIWOŚCI ZAMÓWIENIA ON-LINE<br><br>Fachowe narzędzia\ndo zamówień zleceń\n<br>100 000 000 zdjęć i&nbsp;grafik wektorowych.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://robart.fototapetyxl.pl/\" data-toolbar=\"-mbrBtnMove\">ON-LINE</a> ",
+          "_tags": [
+            "Motywy"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-h"
         },
         {
           "_params": {
