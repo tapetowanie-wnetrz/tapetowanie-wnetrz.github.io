@@ -29,13 +29,17 @@
     "siteFonts": [],
     "uniqCompNum": 18,
     "versionPublish": "4.10.0",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsSwitcher": "",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "ART ROB TAPETOWANIE WNĘTRZ",
+        "title": "ROB ART TAPETOWANIE WNĘTRZ",
         "meta_descr": "Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet i okładzin ściennych. Cechujemy się punktualnością, czystością miejsca pracy, dbałością o szczegóły, dokładnością oraz najwyższym poziomem świadczonych usług,  przez lata pracując w Polsce jak i za granicą. Jesteśmy z Lublina gdzie głównie działamy lecz nasz zasięg obejmuje cała Polskę. ",
         "header_custom": "",
         "footer_custom": "",
