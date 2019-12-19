@@ -158,7 +158,8 @@
           "_anchor": "header1-1",
           "_styles": {
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "60px"
             }
           }
         },
@@ -328,7 +329,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3a-akcesoria-do-samodzielnego-tapetowania-700x400.png",
+              "src": "@PROJECT_PATH@/assets/images/20191215-133313-1400x1050.jpg",
               "link": "",
               "alt": "",
               "title": ""
@@ -359,9 +360,9 @@
           "_params": {
             "showBullets": true,
             "fullWidth": false,
-            "spacing": "4",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "spacing": "5",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "filterBgColor": false,
             "bgColor": "fff",
             "showText": false,
@@ -474,6 +475,54 @@
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20191205-162733-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20191205-162733-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20191205-124332-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20191205-124332-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20191205-124320-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20191205-124320-2000x1500-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/20191205-112402-2000x2667.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20191205-112402-2000x2667-800x1067.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -528,7 +577,7 @@
             }
           },
           "title": "Nasze usługi<br>świadczyliśmy<br>m.in. dla:",
-          "text": "<b>•\tSantander\n<br>•\tTBV DEVELOPMENT\n<br>•\tCHIŃCZYK\n<br>•\tPolitechnika Lubleska\n<br>•\tHotel Lwów\n<br>•\tHotel Korona\n<br>•\tGEBERIT Ozorków\n<br>•\tCentrum Biznesu w Łodzi\n<br>•\tOdlewnia żeliwa\n<br>•\tHotel Fokus\n<br>•\tHotel IBIS\n<br>•\tCosmopolitan\n<br>•\tSii\n<br>I wiele innych.</b><br><br><b><i>ZAPRASZAMY DO WSPÓŁPRACY!</i><br><i><br></i><i>REALIZUJEMY&nbsp;</i><i>PROJEKTY NA TERENIE CAŁEJ POLSKI</i></b><br>",
+          "text": "•\tSantander\n<br>•\tTBV DEVELOPMENT\n<br>•\tCHIŃCZYK\n<br>•\tPolitechnika Lubleska\n<br>•\tHotel Lwów\n<br>•\tHotel Korona\n<br>•\tGEBERIT Ozorków\n<br>•\tCentrum Biznesu w Łodzi\n<br>•\tOdlewnia żeliwa\n<br>•\tHotel Fokus\n<br>•\tHotel IBIS\n<br>•\tCosmopolitan\n<br>•\tSii\ni wiele innych.<br><br><b><i>ZAPRASZAMY DO WSPÓŁPRACY!</i></b><br><i><br></i><b><i>REALIZUJEMY&nbsp;</i><i>PROJEKTY<br>NA TERENIE CAŁEJ POLSKI</i></b><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_tags": [
             "Motywy"
@@ -540,10 +589,14 @@
               "font-size": "36px"
             },
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "24px",
+              "text-align": "left"
             },
             ".mbr-section-text": {
               "text-align": "left"
+            },
+            ".mbr-section-text B": {
+              "font-size": "20px"
             }
           }
         },
@@ -572,7 +625,7 @@
           },
           "title": "ZAMÓW",
           "text": "<b>ZAPRASZAMY DO SKŁADANIA&nbsp;<br>ZAMÓWIEŃ ON-LINE&nbsp;<br><br>Fachowe narzędzia\ndo składania zamówień </b><br><b>oraz&nbsp;</b><b>tworzenia spersonalizowanych projektów.<br>&nbsp;Możliwość wyboru </b><b>spośród setek zdjęć i&nbsp;grafik wektorowych.</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://robart.fototapetyxl.pl/\" data-toolbar=\"-mbrBtnMove\">SKLEP ON-LINE</a> ",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://robart.fototapetyxl.pl/\" data-toolbar=\"-mbrBtnMove\">SKLEP ON-LINE</a> ",
           "_tags": [
             "Motywy"
           ],
@@ -580,10 +633,10 @@
           "_anchor": "header1-h",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#0079ff"
+              "color": "#000000"
             },
             ".mbr-section-lead": {
-              "color": "#0079ff"
+              "color": "#000000"
             }
           }
         },
@@ -615,14 +668,19 @@
               "size": 0
             }
           },
-          "text1": "Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet<br>i okładzin ściennych.<br><br>Specjalizujemy się w wyklejaniu dużych powierzchni.<br>",
+          "text1": "<b>Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet<br>i okładzin ściennych.<br><br>Specjalizujemy się w wyklejaniu dużych powierzchni.</b><br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Mail:</b></span></font><br>wnetrza.rob.art@gmail.com<br><br>",
-          "text3": "<strong>Links</strong><br><strong><br></strong><a class=\"text-primary\" href=\"https://mobirise.com/\">C</a>ennik<br><br>",
+          "text3": "<strong>Links</strong><br><br>",
           "_tags": [
             "Motywy"
           ],
           "_name": "contacts1",
-          "_anchor": "contacts1-8"
+          "_anchor": "contacts1-8",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }

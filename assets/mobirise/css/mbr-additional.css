@@ -517,6 +517,7 @@ section.form .container {
 }
 #header1-1 .mbr-section-title {
   text-align: center;
+  font-size: 60px;
 }
 #features7-4 .card-subtitle {
   color: #bcbcbc;
@@ -533,14 +534,21 @@ section.form .container {
   font-size: 36px;
 }
 #header2-a .mbr-section-title {
-  font-size: 36px;
+  font-size: 24px;
+  text-align: left;
 }
 #header2-a .mbr-section-text {
   text-align: left;
 }
+#header2-a .mbr-section-text B {
+  font-size: 20px;
+}
 #header1-h .mbr-section-title {
-  color: #0079ff;
+  color: #000000;
 }
 #header1-h .mbr-section-lead {
-  color: #0079ff;
+  color: #000000;
+}
+#contacts1-8 P {
+  color: #ffffff;
 }
