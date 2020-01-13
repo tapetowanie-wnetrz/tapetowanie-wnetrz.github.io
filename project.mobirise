@@ -21,7 +21,8 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#0079ff"
+        "#0079ff",
+        "#323232"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -681,7 +682,7 @@
           },
           "text1": "<b>Zajmujemy się profesjonalnym wyklejaniem tapet, fototapet<br>i okładzin ściennych.<br><br>Specjalizujemy się w wyklejaniu dużych powierzchni.</b><br>",
           "text2": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\"><span style=\"font-size: 16px; letter-spacing: -1px;\"><b>Mail:</b></span></font><br><b>wnetrza.rob.art@gmail.com</b><br><br>",
-          "text3": "<strong>Links</strong><br><br>",
+          "text3": "<b>Links<br></b><br>",
           "_tags": [
             "Motywy"
           ],
@@ -689,7 +690,7 @@
           "_anchor": "contacts1-8",
           "_styles": {
             "P": {
-              "color": "#efefef"
+              "color": "#ffffff"
             }
           }
         },
@@ -706,12 +707,17 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Copyright (c) Rob art tapetowanie wnętrz.",
+          "text": "<b>Copyright (c) Rob art tapetowanie wnętrz.</b>",
           "_tags": [
             "Motywy"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-i"
+          "_anchor": "footer1-i",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
