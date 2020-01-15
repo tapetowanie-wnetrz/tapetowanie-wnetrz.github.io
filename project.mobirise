@@ -21,8 +21,7 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#0079ff",
-        "#323232"
+        "#0079ff"
       ]
     },
     "path": "@PROJECT_PATH@",
