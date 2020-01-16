@@ -21,14 +21,13 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#0079ff",
-        "#2e2e2e"
+        "#0079ff"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.0",
     "siteFonts": [],
-    "uniqCompNum": 19,
+    "uniqCompNum": 18,
     "versionPublish": "4.10.0",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
@@ -113,7 +112,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-4\">DOŚWIACZENIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box6-6\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-9\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-a\">PARTNERZY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-h\">ZAMÓW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts1-8\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box6-6\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://www.facebook.com/RobArt-Profesjonalne-tapetowanie-Wyko%C5%84czenie-i-dekoracja-wn%C4%99trz-438346296311758/\" target=\"_blank\">FACEBOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.facebook.com/RobArt-Profesjonalne-tapetowanie-Wyko%C5%84czenie-i-dekoracja-wn%C4%99trz-438346296311758/\" target=\"_blank\">669 160 881</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#features7-4\">DOŚWIACZENIE</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box6-6\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#gallery4-9\">GALERIA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header2-a\">PARTNERZY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-h\">ZAMÓW</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts2-i\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box6-6\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger-outline btn-danger\" href=\"https://www.facebook.com/RobArt-Profesjonalne-tapetowanie-Wyko%C5%84czenie-i-dekoracja-wn%C4%99trz-438346296311758/\" target=\"_blank\">FACEBOOK</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.facebook.com/RobArt-Profesjonalne-tapetowanie-Wyko%C5%84czenie-i-dekoracja-wn%C4%99trz-438346296311758/\" target=\"_blank\">669 160 881</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -692,7 +691,7 @@
               "state": "ok"
             }
           },
-          "text1": "<strong>Adres</strong><br><b>Adres: Wrońska 1C,<br>20-327 Lublin</b><br><br><br>\n<strong>Kontakt</strong><br>\nEmail: rob.art.tapetowanie@gmail.com<br>Kom.:&nbsp;669 160 881<br><br>",
+          "text1": "<strong>Adres</strong><br><b>Adres: Wrońska 1C,<br>20-327 Lublin</b><br><br><br>\n<strong>Kontakt</strong><br><b>\nEmail: rob.art.tapetowanie@gmail.com<br>Kom.:&nbsp;669 160 881</b><br><br>",
           "text2": "",
           "_tags": [
             "Motywy"
